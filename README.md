@@ -10,6 +10,23 @@ comprehensive overview of business performance
 3. Number of items : The count of items sold
 4. Averege rating  : The avg rating givven by customer
 
+# Process
+1. Define the objective
+2. Data collection
+3. Data cleaning & preprocessing
+4. Exploratory data analysis(EDA)
+5. Data modeling
+6. Data visualization
+7. building dashboard
+8. communicate the report
+
+
+# Dashboard
+
+
+
+
+
 
 
 
