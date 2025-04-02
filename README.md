@@ -23,6 +23,8 @@ comprehensive overview of business performance
 
 # Dashboard
 
+- <a href ="https://github.com/dasarianil153/blinkit-excel/blob/main/blinkit%20dashboard.PNG">View Dashboard</a>
+
 
 
 
